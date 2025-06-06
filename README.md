@@ -14,7 +14,7 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 
 **Researchers** *(in alphabetical order)*: Bram Ton, Dennis Borger, Deepak Tunuguntla, Faizan Ahmed, Jeroen Linssen, Peter Ebben, Rahul Ramakrishnan, Sjoerd Zagema
 
-**Students** *(in alphabetical order)*: Khadijeh Shafiee, Linh Toh, Zhaleh Jamalivand, Zibusisu Masuku
+**Students** *(in alphabetical order)*: Khadijeh Shafiee, Linh Toh, Zhaleh Jamalivand, Zibusisu Masuku, Fernando Gonzalez
 
 ### Research focus
 
