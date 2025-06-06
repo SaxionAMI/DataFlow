@@ -12,7 +12,7 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 
 **Stakeholders** *(in alphabetical order)*: Bronkhorst, benchmark, RIWO, Saxion, Voortman
 
-**Reseearchers** *(in alphabetical order)*: Bram Ton, Dennis Borger, Deepak Tunuguntla, Faizan Ahmed, Jeroen Linssen, Peter Ebben, Rahul Ramakrishnan, Sjoerd Zagema
+**Researchers** *(in alphabetical order)*: Bram Ton, Dennis Borger, Deepak Tunuguntla, Faizan Ahmed, Jeroen Linssen, Peter Ebben, Rahul Ramakrishnan, Sjoerd Zagema
 
 **Students** *(in alphabetical order)*: Khadijeh Shafiee, Linh Toh, Zhaleh Jamalivand, Zibusisu Masuku
 
