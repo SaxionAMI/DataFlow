@@ -34,6 +34,12 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 
 ### Codebases
 
+|Involved stakeholders|Topic of research|Link to repos|Status|
+|---|---|---|---|
+|RIWO|MLOps|[GitHub repo](https://github.com/SaxionAMI/2024-TFF-DataFlow-RIWO)|In progress|
+|Benchmark|Data-driven predictive maintenance|[GitHub repo](https://github.com/SaxionAMI/2024-TFF-DataFlow-benchmark)|In progress|
+|Voortman|Data-driven predictive maintenance|[GitHub repo](https://github.com/SaxionAMI/2024-TFF-DataFlow-Voortman)|Initialised|
+
 ### Student projects
 
 |Name|Degree|Project Type|Output|Stakeholder|Status|
