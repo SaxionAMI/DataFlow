@@ -40,6 +40,8 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 |Benchmark|Data-driven predictive maintenance|[GitHub repo](https://github.com/SaxionAMI/2024-TFF-DataFlow-benchmark)|In progress|
 |Voortman|Data-driven predictive maintenance|[GitHub repo](https://github.com/SaxionAMI/2024-TFF-DataFlow-Voortman)|Initialised|
 
+**Note**: *Currently, all the links are for private use only. For access, please feel free to reach out to Deepak Tunuguntla (d *dot* r *dot* tunuguntla *AT* saxion *dot* nl). Access can be granted depending on the nature of the request.*
+
 ### Student projects
 
 |Name|Degree|Project Type|Output|Stakeholder|Status|
@@ -50,4 +52,4 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 |Khadijeh Shafiee|Saxion Ma ICT:SE|Graduation Project|- [Proposal](https://saxion.sharepoint.com/:b:/r/teams/o365-team007262/Gedeelde%20documenten/TFF%20DataFlow/Development/student_assignments/Riwo/Khadijeh_GraduationProject/assignment_proposal_khadijeh_shafiee.pdf?csf=1&web=1&e=I0JVSo)|RIWO|Ongoing|
 |Linh Toh|Saxion Ma ICT:SE|Graduation Project|- [Proposal](https://saxion.sharepoint.com/:b:/r/teams/o365-team007262/Gedeelde%20documenten/TFF%20DataFlow/Development/student_assignments/Riwo/LinhTo_GraduationProject/assignment_proposal_linh_to.pdf?csf=1&web=1&e=t3G9lp) <br/> - [Plan of Approach](https://saxion.sharepoint.com/:b:/r/teams/o365-team007262/Gedeelde%20documenten/TFF%20DataFlow/Development/student_assignments/Riwo/LinhTo_GraduationProject/plan_of_approach_linh_to.pdf?csf=1&web=1&e=YyYzb2)|Saxion|Ongoing|
 
-Currently, all the links are for private use only. For access, please feel free to reach out to Deepak Tunuguntla (d *dot* r *dot* tunuguntla *AT* saxion *dot* nl). Access can be granted depending on the nature of the document.
+**Note**: *Currently, all the links are for private use only. For access, please feel free to reach out to Deepak Tunuguntla (d *dot* r *dot* tunuguntla *AT* saxion *dot* nl). Access can be granted depending on the nature of the request.*
