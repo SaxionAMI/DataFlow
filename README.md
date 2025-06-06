@@ -30,9 +30,12 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 
 ### Articles
 
+- [Data Architectures Whitepaper](https://saxion.sharepoint.com/:b:/r/teams/o365-team007262/Gedeelde%20documenten/TFF%20DataFlow/Development/WP3_use_cases/Bronkhorst/Data_architectures-1.pdf?csf=1&web=1&e=VdppdF)
+
 ### Presentations
 
-
+- Data-driven digital manufacturing. Bram Ton and Dennis Borger at [Tech Topic Group - Industrial Automation and Robotics](https://tvalley.nl/nl/). June 2024, RIWO, Oldenzaal
+- MLOps for automated e-waste Detection pipeline. Sjoerd Zagema, Roy Stevelink and Deepak Tunuguntla at [Kennisevent - Toepassing van AI voor kwaliteitscontrole](https://www.perron038.nl/evenement/kennisevenement-toepassing-van-ai-voor-kwaliteitscontrole/). March 2025, Perron38, Zwolle
 
 ### Codebases
 
