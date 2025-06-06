@@ -6,7 +6,7 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 - [TechForFuture](https://techforfuture.nl/project/dataflow-data-must-flow-for-data-driven-digital-manufacturing/)
 - [Saxion Ambient Intelligence group](https://www.saxion.nl/onderzoek/overige-projecten/ambient-intelligence/dataflow).
 
-<img src="images/dataflow_project_general_sketch.png" width="300"/>
+<img src="images/dataflow_project_general_sketch.png" width="500"/>
 
 ## Our team and research focus
 
@@ -31,6 +31,8 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 ### Articles
 
 ### Presentations
+
+
 
 ### Codebases
 
