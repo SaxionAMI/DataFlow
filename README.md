@@ -30,7 +30,7 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 
 ### Articles
 
-- [Data Architectures Whitepaper](https://saxion.sharepoint.com/:b:/r/teams/o365-team007262/Gedeelde%20documenten/TFF%20DataFlow/Development/WP3_use_cases/Bronkhorst/Data_architectures-1.pdf?csf=1&web=1&e=VdppdF)
+- [Data Architectures Whitepaper](https://doi.org/10.5281/zenodo.15585260)
 
 ### Presentations
 
