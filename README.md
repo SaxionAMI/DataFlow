@@ -61,3 +61,6 @@ Welcome to the DataFlow project page, which presents an overview of all the late
 
 
 **Note**: *Currently, all the links are for private use only. For access, please feel free to reach out to Deepak Tunuguntla (d dot r dot tunuguntla AT saxion dot nl). Access can be granted depending on the nature of the request.*
+
+## Funding
+This project was funded by [TechForFuture](https://techforfuture.nl/) [project number 2402]. The project officially ran from 2024-03-01 till 2026-02-28.
